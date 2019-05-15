@@ -1,0 +1,22 @@
+C:\Users\Eise\Documents\Code\Lessons\6 GameOfLife\GameOfLife\GameOfLife\bin\Debug\netcoreapp2.1\GameOfLife.deps.json
+C:\Users\Eise\Documents\Code\Lessons\6 GameOfLife\GameOfLife\GameOfLife\bin\Debug\netcoreapp2.1\GameOfLife.runtimeconfig.json
+C:\Users\Eise\Documents\Code\Lessons\6 GameOfLife\GameOfLife\GameOfLife\bin\Debug\netcoreapp2.1\GameOfLife.runtimeconfig.dev.json
+C:\Users\Eise\Documents\Code\Lessons\6 GameOfLife\GameOfLife\GameOfLife\bin\Debug\netcoreapp2.1\GameOfLife.dll
+C:\Users\Eise\Documents\Code\Lessons\6 GameOfLife\GameOfLife\GameOfLife\bin\Debug\netcoreapp2.1\GameOfLife.pdb
+C:\Users\Eise\Documents\Code\Lessons\6 GameOfLife\GameOfLife\GameOfLife\obj\Debug\netcoreapp2.1\GameOfLife.csprojAssemblyReference.cache
+C:\Users\Eise\Documents\Code\Lessons\6 GameOfLife\GameOfLife\GameOfLife\obj\Debug\netcoreapp2.1\GameOfLife.csproj.CoreCompileInputs.cache
+C:\Users\Eise\Documents\Code\Lessons\6 GameOfLife\GameOfLife\GameOfLife\obj\Debug\netcoreapp2.1\GameOfLife.AssemblyInfoInputs.cache
+C:\Users\Eise\Documents\Code\Lessons\6 GameOfLife\GameOfLife\GameOfLife\obj\Debug\netcoreapp2.1\GameOfLife.AssemblyInfo.cs
+C:\Users\Eise\Documents\Code\Lessons\6 GameOfLife\GameOfLife\GameOfLife\obj\Debug\netcoreapp2.1\GameOfLife.dll
+C:\Users\Eise\Documents\Code\Lessons\6 GameOfLife\GameOfLife\GameOfLife\obj\Debug\netcoreapp2.1\GameOfLife.pdb
+C:\Users\pimsc\OneDrive\Bureaublad\GameOfLife\GameOfLife\bin\Debug\netcoreapp2.1\GameOfLife.deps.json
+C:\Users\pimsc\OneDrive\Bureaublad\GameOfLife\GameOfLife\bin\Debug\netcoreapp2.1\GameOfLife.runtimeconfig.json
+C:\Users\pimsc\OneDrive\Bureaublad\GameOfLife\GameOfLife\bin\Debug\netcoreapp2.1\GameOfLife.runtimeconfig.dev.json
+C:\Users\pimsc\OneDrive\Bureaublad\GameOfLife\GameOfLife\bin\Debug\netcoreapp2.1\GameOfLife.dll
+C:\Users\pimsc\OneDrive\Bureaublad\GameOfLife\GameOfLife\bin\Debug\netcoreapp2.1\GameOfLife.pdb
+C:\Users\pimsc\OneDrive\Bureaublad\GameOfLife\GameOfLife\obj\Debug\netcoreapp2.1\GameOfLife.csprojAssemblyReference.cache
+C:\Users\pimsc\OneDrive\Bureaublad\GameOfLife\GameOfLife\obj\Debug\netcoreapp2.1\GameOfLife.csproj.CoreCompileInputs.cache
+C:\Users\pimsc\OneDrive\Bureaublad\GameOfLife\GameOfLife\obj\Debug\netcoreapp2.1\GameOfLife.AssemblyInfoInputs.cache
+C:\Users\pimsc\OneDrive\Bureaublad\GameOfLife\GameOfLife\obj\Debug\netcoreapp2.1\GameOfLife.AssemblyInfo.cs
+C:\Users\pimsc\OneDrive\Bureaublad\GameOfLife\GameOfLife\obj\Debug\netcoreapp2.1\GameOfLife.dll
+C:\Users\pimsc\OneDrive\Bureaublad\GameOfLife\GameOfLife\obj\Debug\netcoreapp2.1\GameOfLife.pdb
